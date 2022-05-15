@@ -1,7 +1,12 @@
-# My own dotfiles on gentoo!!
+# My own dotfiles on gentoo!!  
 
+### Dependencias
+
+picom  
+feh  
+  
 ## O que contem nesse repositorio??
-
+  
 Simplesmente nesse repo tem as minhas dotfiles:
 
 dwm.  
@@ -12,7 +17,7 @@ config.el init.el packages.el do doom emacs.
 picom.  
   
   
-Lembre-se de mover as pastas .dwm e Scripts para a sua home!
+Lembre-se de mover as pastas .dwm e Scripts e a imagem do gtr para a sua home!
 E também de mover a pasta dwmblocks para a pasta do dwm!
 
 ## *Alguns scripts principalmente do dwmblocks ñ estão funcionando irei tentar resolver isto mais tarde!*
