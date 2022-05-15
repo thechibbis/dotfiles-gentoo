@@ -1,7 +1,12 @@
-# My own dotfiles on gentoo!!
+# My own dotfiles on gentoo!!  
 
+### Dependencias
+
+picom
+feh
+  
 ## O que contem nesse repositorio??
-
+  
 Simplesmente nesse repo tem as minhas dotfiles:
 
 dwm.  
