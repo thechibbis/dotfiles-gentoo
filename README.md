@@ -14,9 +14,8 @@ picom
 Lembre-se de mover as pastas .dwm e Scripts para a sua home!
 E também de mover a pasta dwmblocks para a pasta do dwm!
 
-*Alguns scripts principalmente do dwmblocks ñ estão funcionando irei tentar resolver isto mais tarde!*
-
-
+## *Alguns scripts principalmente do dwmblocks ñ estão funcionando irei tentar resolver isto mais tarde!*
+\n\n\n\\n
 
 Feito com a ajuda especial da DIO.me
 com o curso de git e versionamento de codigo!
