@@ -10,8 +10,8 @@ dmenu.
 st.  
 config.el init.el packages.el do doom emacs.  
 picom.  
-.  
-.  
+  
+  
 Lembre-se de mover as pastas .dwm e Scripts para a sua home!
 E também de mover a pasta dwmblocks para a pasta do dwm!
 
@@ -22,5 +22,9 @@ E também de mover a pasta dwmblocks para a pasta do dwm!
   
   
   
+  
+  
+  
+  
 Feito com a ajuda especial da DIO.me
-com o curso de git e versionamento de codigo!
+com o curso de git e github!
