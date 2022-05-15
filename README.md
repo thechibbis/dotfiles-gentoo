@@ -1,7 +1,7 @@
 # My own dotfiles on gentoo!!  
-
+  
 ### Dependencias
-
+  
 picom  
 feh  
   
@@ -18,7 +18,6 @@ picom.
   
   
 Lembre-se de mover as pastas .dwm e Scripts e a imagem do gtr para a sua home!
-E também de mover a pasta dwmblocks para a pasta do dwm!
 
 ## *Alguns scripts principalmente do dwmblocks ñ estão funcionando irei tentar resolver isto mais tarde!*
   
