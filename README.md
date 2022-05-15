@@ -2,8 +2,8 @@
 
 ### Dependencias
 
-picom
-feh
+picom  
+feh  
   
 ## O que contem nesse repositorio??
   
