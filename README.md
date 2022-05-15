@@ -10,7 +10,6 @@ dmenu.
 st.  
 config.el init.el packages.el do doom emacs.  
 picom.  
-Wallpaper GTR  
   
   
 Lembre-se de mover as pastas .dwm e Scripts e a imagem do gtr para a sua home!
