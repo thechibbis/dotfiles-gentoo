@@ -20,15 +20,3 @@ picom.
 Lembre-se de mover as pastas .dwm e Scripts e a imagem do gtr para a sua home!
 
 ## *Alguns scripts principalmente do dwmblocks ñ estão funcionando irei tentar resolver isto mais tarde!*
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Feito com a ajuda especial da DIO.me
-com o curso de git e github!
